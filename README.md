@@ -6,3 +6,4 @@
 ### pipする必要があるもの
 - beautifulsoup4
 - mecab-python3
+- wordcloud
